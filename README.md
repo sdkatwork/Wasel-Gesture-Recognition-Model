@@ -29,4 +29,4 @@ Full dataset and training code are not included here.
 Developed as part of the Senior Project requirement at King Abdulaziz University.
 ## Contact
 for inquiries or collaboration opportunities, feel free to reach out:
-- Email: sarahalkabkabi@gmail.com
+Email: sarahalkabkabi@gmail.com
